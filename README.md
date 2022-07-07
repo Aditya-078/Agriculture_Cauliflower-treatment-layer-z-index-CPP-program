@@ -1,5 +1,5 @@
 # Randomized Block Design (significance)_ Agriculture_CPP-program
-Agriculture Cauliflower treatment layer(z-index) CPP program - replication- Significance- (Randomized Block Design) CPP program
+Randomized Block Design (significance)_ Agriculture_CPP-program
 
 
 What is RBD(Randomized Block Design)?
